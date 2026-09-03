@@ -37,7 +37,7 @@ export default function Index() {
   <header class="max-w-[860px] mx-auto px-5 pt-6 flex items-center justify-between">
     <a href="https://yandez.my.id" class="inline-flex items-center gap-2 text-purple-200 hover:text-white transition-colors text-sm font-medium">
       <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
-      yandez.my.id
+      Portofolio ❤
     </a>
     <span class="text-xs font-semibold text-purple-200/70">v1.0</span>
   </header>
