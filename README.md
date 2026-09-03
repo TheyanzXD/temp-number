@@ -4,7 +4,7 @@
 
 Temp Number is a free, open‑source web application that provides temporary phone numbers for receiving SMS messages online. Built for developers, testers, and anyone who needs a disposable number for verification, testing, or privacy protection.
 
-🔗 **Live Demo:** [https://temp-number.vercel.app](https://temp-number.vercel.app) *(sesuaikan dengan URL Anda)*
+🔗 **Live Demo:** [https://tempnumber.yandez.my.id](https://tempnumber.yandez.my.id)
 
 ---
 
